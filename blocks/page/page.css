@@ -4,3 +4,6 @@
   font-family: "Inter", sans-serif;
   position: relative;
   }
+  * {
+    outline: 1px solid red;
+  }
