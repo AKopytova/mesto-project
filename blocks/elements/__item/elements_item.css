@@ -1,7 +1,4 @@
-.elements_item {
+.elements__item {
     max-width: 282px;
     transition: all 0.5s ease-in-out;
-}
-.elements_item:hover {
-    opacity: 0.8;
 }
