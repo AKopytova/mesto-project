@@ -18,7 +18,7 @@
 }
 
 @media screen and (max-width: 644px) {
-  .profile__editor {
+  .profile__edit {
     min-width: 18px;
     min-height: 18px;
     

@@ -1,7 +1,6 @@
 .elements__description {
   width: calc(100%-22px);
-  margin-left: 21px;
-  padding: 0;
+  margin-left: 21px;  
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
@@ -9,13 +8,13 @@
   font-weight: 900;
   font-size: 24px;
   line-height: 29px;
-
-  display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #fff;
-    border-radius: 0 0 10px 10px;
-    margin: 0;
-    padding: 0;    
-    min-height: 79px;
+  background-color: #fff;
+  border-radius: 0 0 10px 10px;
+  margin: 0;
+  padding: 0;
+  min-height: 79px;
+  display: flex;    
+  justify-content: space-between ;
+  align-items: center;
+  margin-left: 21px;
 }
