@@ -7,10 +7,10 @@
 
 @media screen and (max-width: 767px) {
   .profile__info {  
-    grid-template-columns: 1fr 18px;
+    grid-template-columns: 200px 18px;
     flex-wrap: wrap;
     margin: 0;
     gap: 14px 10px;
-    padding-top: 22px;
+    
   }
 }
