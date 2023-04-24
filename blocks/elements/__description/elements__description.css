@@ -1,5 +1,5 @@
 .elements__description {
-  width: calc(100% - 22px);
+  width: 216px;
   margin-left: 21px;  
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -14,5 +14,4 @@
   display: flex;    
   justify-content: space-between ;
   align-items: center;
-  margin-left: 21px;
-}
+  }
