@@ -1,5 +1,5 @@
 .elements__description {
-  width: 216px; 
+  max-width: 216px; 
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
